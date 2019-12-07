@@ -1,12 +1,12 @@
 # local2lambda
 
-## Environment
+## Environment requirements
 1. docker 
 2. AWS CLI 
 
-## Upload
+## Upload to lambda
 
-First input your function name in `deploy.sh`
+First input your lambda function name in `deploy.sh`
 
 `$ sh deploy.sh`
 
