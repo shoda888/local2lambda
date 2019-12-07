@@ -1,10 +1,12 @@
-# rocal2lambda
+# local2lambda
 
-## environment
+## Environment
 1. docker 
 2. AWS CLI 
 
-## upload
-1. Input your function name in `deploy.sh`
-2. `sh deploy.sh`
+## Upload
+
+First input your function name in `deploy.sh`
+
+`$ sh deploy.sh`
 
