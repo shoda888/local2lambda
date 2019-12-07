@@ -1,3 +1,3 @@
-# alexa2tello
+# rocal2lambda
 
-## You can controll a tello by alexa
+
