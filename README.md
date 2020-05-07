@@ -1,8 +1,12 @@
-# local2lambda
+# deployLambdaDemo
+This is an environment for developing Lambda Function by your local PC.
 
 ## Environment requirements
 1. docker 
 2. AWS CLI 
+
+    Keep your AWS CLI account **properly**.
+
 
 ## Upload to lambda
 
